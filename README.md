@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 프로젝트 이름
+X(전 트위터) 클론코딩
 
-## Getting Started
+## 프로젝트 설명
+해당 프로젝트는 
+제로초 선생님의 Next.js + React Query로 SNS 서비스 만들기를 수강하면서 만든 프로젝트입니다.
+https://www.inflearn.com/course/next-react-query-sns%EC%84%9C%EB%B9%84%EC%8A%A4/dashboard
 
-First, run the development server:
+강의는 75강 완강하였습니다.
+해당 프로젝트를 통해
+Next.js App라우터와 ReactQuery
+그리고 백엔드 mock 라이브러리인 MSW에 대해 배우게되었습니다.
 
+
+## 목차
+1. [프로젝트 설명](#프로젝트-설명)
+2. [기능](#기능)
+3. [설치 방법](#설치-방법)
+4. [사용 방법](#사용-방법)
+5. [기술 스택](#기술-스택)
+6. [기여](#기여)
+7. [테스트](#테스트)
+8. [배포](#배포)
+9. [라이선스](#라이선스)
+10. [연락처](#연락처)
+11. [참고 자료](#참고자료)
+
+## 설치 방법
+프로젝트를 설치하고 설정하는 방법을 단계별로 설명합니다.
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# 예시
+git clone https://github.com/yourusername/your-repository.git
+cd your-repository
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 기능
+- 트위터(X)의 전반적인 메인 기능들
+- 로그인
+- 무한 스크롤
+- 
 
-You can start editing the page by modifying `app/default.tsx`. The page auto-updates as you edit the file.
+## 사용 방법
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 기술 스택
+- 프론트엔드 : Next.js, Typescript
+- 백엔드 : Next.js
+- 데이터베이스 : X
 
-## Learn More
+## 기여
 
-To learn more about Next.js, take a look at the following resources:
+## 테스트
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 배포
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 라이선스
 
-## Deploy on Vercel
+## 연락처
+문의 메일 : goodchuck852@gmail.com
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 참고자료
